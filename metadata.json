@@ -1,0 +1,7 @@
+{
+  "name": "Pink Dream & Tech Christmas",
+  "description": "A high-end 3D Christmas experience featuring 7,000+ instanced octahedrons with AI hand gesture control and state transitions.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
